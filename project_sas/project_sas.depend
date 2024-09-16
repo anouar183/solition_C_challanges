@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726529382 source:c:\users\dell\desktop\new folder (2)\solition_c_challanges\project_sas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

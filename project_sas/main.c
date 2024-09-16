@@ -386,7 +386,7 @@ int main()
         break;
     }
 
-    }while(choix != 7);
+    }while(choix != 8);
 
     return 0;
 }
